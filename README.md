@@ -1,2 +1,0 @@
-# autolaunch
-autolaunch on boot
